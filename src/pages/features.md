@@ -33,6 +33,12 @@ sections:
           - label: Learn More
             url: /style-guide
             style: primary
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            new_window: false
+            no_follow: false
+            type: action
       - title: Feature 3
         content: >-
           Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
