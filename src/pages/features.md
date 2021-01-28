@@ -19,7 +19,7 @@ sections:
         actions:
           - label: Learn More
             url: /about
-            style: secondary
+            style: link
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
