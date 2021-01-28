@@ -1,10 +1,6 @@
 ---
 title: Features
 sections:
-  - type: hero_section
-    title: Features
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    align: center
   - type: features_section
     features:
       - title: Feature 1
@@ -76,5 +72,9 @@ sections:
             new_window: false
             no_follow: false
             type: action
+  - type: hero_section
+    title: Features
+    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
+    align: center
 template: advanced
 ---
