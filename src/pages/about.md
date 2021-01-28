@@ -18,14 +18,6 @@ sections:
       Egestas tellus rutrum tellus pellentesque eu. Auctor augue mauris augue
       neque. Lectus arcu bibendum at varius vel pharetra. Enim sed faucibus
       turpis in eu mi bibendum neque egestas.
-  - type: team_section
-    title: Our Team
-    team:
-      - src/data/team/miles-tone.yaml
-      - src/data/team/dianne-ameter.yaml
-      - src/data/team/eleanor-carr.yaml
-      - src/data/team/hanson-deck.yaml
-      - src/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
@@ -35,5 +27,13 @@ sections:
         style: secondary
     has_background: true
     background_color: blue
+  - type: team_section
+    title: Our Team
+    team:
+      - src/data/team/miles-tone.yaml
+      - src/data/team/dianne-ameter.yaml
+      - src/data/team/eleanor-carr.yaml
+      - src/data/team/hanson-deck.yaml
+      - src/data/team/gordon-norman.yaml
 template: advanced
 ---
