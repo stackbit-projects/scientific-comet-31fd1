@@ -24,7 +24,7 @@ sections:
     actions:
       - label: Contact Us
         url: /contact
-        style: secondary
+        style: link
       - label: lorem-ipsum
         url: lorem-ipsum
         style: link
