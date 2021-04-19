@@ -17,10 +17,16 @@ sections:
             url: /about
             style: link
       - title: Feature 2
-        content: >-
+        content: >
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
           diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
           euismod lacinia.
+
+
+          *   features 1
+
+
+          *   features 2
         align: right
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
