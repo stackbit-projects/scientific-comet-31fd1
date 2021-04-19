@@ -27,7 +27,7 @@ sections:
 
 
           *   features 2
-        align: right
+        align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
         image_position: right
