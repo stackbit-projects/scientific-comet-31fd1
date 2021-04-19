@@ -32,9 +32,6 @@ sections:
         image_alt: Feature 2 placeholder image
         image_position: right
         actions:
-          - label: Learn More
-            url: /style-guide
-            style: primary
           - label: lorem-ipsum
             url: lorem-ipsum
             style: link
