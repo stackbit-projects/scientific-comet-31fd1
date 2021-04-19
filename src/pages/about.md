@@ -25,6 +25,12 @@ sections:
       - label: Contact Us
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        new_window: false
+        no_follow: false
+        type: action
     has_background: true
     background_color: blue
   - type: team_section
