@@ -63,6 +63,23 @@ sections:
             new_window: false
             no_follow: false
             type: action
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        align: left
+        image_alt: lorem-ipsum
+        image_position: left
+        actions: []
+        type: feature
   - type: hero_section
     title: Features
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
